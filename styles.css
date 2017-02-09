@@ -1,0 +1,103 @@
+.logo {
+  height: 50px;
+  width: 120px;
+}
+
+.orange-background {
+  background-color: #ff512f;
+}
+
+.black-shoe {
+  padding-left: 300px;
+  height: 448px;
+  width: 876px;
+}
+
+.class-name {
+  font-family: arial, sans-serif;
+  color: #ff512f;
+}
+
+.class-name1 {
+  font-family: arial, sans-serif;
+  color: #ffa6a7;
+}
+
+
+.white-sneakers {
+padding-left: 300px;
+font-size:50px;
+font-family: arial, sans-serif;
+color: white;
+
+}
+
+.body-text {
+ padding-left: 300px;
+ font-family: arial, sans-serif;
+ color: brown;
+
+}
+.body-textbox {
+ margin: 300px;
+ font-family: arial, sans-serif;
+ color: white;
+
+}
+
+.body-text2 {
+ padding-left: 300px;
+ font-family: arial, sans-serif;
+ font-size: 40px;
+ color: white;
+
+}
+
+.body-textline {
+  padding-left: 150px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-top: 2px dashed brown;
+  border-bottom: 2px dashed brown;
+  font-family: arial, sans-serif;
+  color: white;
+}
+
+.brown-bigbold {
+  padding-left: 300px;
+  font-size:40px;
+  font-family: arial, sans-serif;
+  color: #503226;
+
+}
+
+.blue-shoe {
+  padding-left: 300px;
+
+}
+
+.blue-littleshoe {
+  padding-left: 300px;
+
+}
+
+.brown-littlebold {
+  padding-left: 300px;
+  font-size:20px;
+  font-family: arial, sans-serif;
+  color: #9f3227;
+}
+
+.brown-littlelight {
+  padding-left: 300px;
+  font-size:20px;
+  font-family: arial, sans-serif;
+  color: brown;
+
+}
+
+.right-aligned {
+  padding-left: 300px;
+  float: right;
+  Padding-left: 20px;
+}
