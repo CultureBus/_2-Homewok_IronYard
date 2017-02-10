@@ -1,6 +1,8 @@
 .logo {
-  height: 50px;
-  width: 120px;
+  float: left;
+  padding: 20px;
+  height: 30px;
+  width: 65px;
 }
 
 .orange-background {
@@ -14,34 +16,40 @@
 }
 
 .class-name {
+  margin-top: 20px;
+  padding-left: 80px;
   font-family: arial, sans-serif;
   color: #ff512f;
 }
 
 .class-name1 {
+  padding-bottom: 30px;
   font-family: arial, sans-serif;
   color: #ffa6a7;
 }
 
 
 .white-sneakers {
-padding-left: 300px;
-font-size:50px;
-font-family: arial, sans-serif;
-color: white;
+  margin: 40px;
+  padding:
+  font-size:20px;
+  font-family: arial, sans-serif;
+  color: white;
 
 }
 
 .body-text {
- padding-left: 300px;
+ margin: 40px;
+ padding:
  font-family: arial, sans-serif;
- color: brown;
+ color: white;
 
 }
 .body-textbox {
- margin: 300px;
- font-family: arial, sans-serif;
- color: white;
+  margin: 40px;
+  padding:
+  font-family: arial, sans-serif;
+  color: white;
 
 }
 
@@ -72,13 +80,17 @@ color: white;
 }
 
 .blue-shoe {
-  padding-left: 300px;
-
+ margin: 40px;
+ padding:
+ height: 130px;
+ width: 200px;
 }
 
 .blue-littleshoe {
-  padding-left: 300px;
-
+  margin: 40px;
+  padding:
+  height: 130px;
+  width: 200px;
 }
 
 .brown-littlebold {
@@ -100,4 +112,30 @@ color: white;
   padding-left: 300px;
   float: right;
   Padding-left: 20px;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.pad-left {
+  padding-left: 0px;
+  padding-right: 20px;
+}
+
+.pad-low {
+  padding-top: 50px;
+  padding-left: 175px;
+  padding-bottom: 50px;
+
+}
+
+.floaterright {
+ float: right;
+ clear: right;
+ margin-bottom: 20px;
+}
+
+.navigationbar {
+ overflow: auto;
 }
